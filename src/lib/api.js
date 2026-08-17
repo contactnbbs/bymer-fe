@@ -12,7 +12,7 @@ import {
   STATIC_PRODUCT_CATEGORY_DETAILS,
 } from "./staticData";
 
-const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://bymer.pythonanywhere.com";
+const BASE_URL = process.env.NEXT_PUBLIC_API_URL || "https://app.bymer.com";
 const ORG_API_BASE_URL = process.env.NEXT_PUBLIC_ORG_API_URL || BASE_URL;
 
 // Helper to handle absolute URL formatting for images served by Django

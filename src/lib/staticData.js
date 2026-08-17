@@ -713,42 +713,42 @@ export const STATIC_CERTIFICATIONS = [
   {
     id: 1,
     name: "ISO 14001 : 2015",
-    image: "https://bymer.pythonanywhere.com/media/certifications/ISO-14001-2015.png",
+    image: "https://app.bymer.com/media/certifications/ISO-14001-2015.png",
   },
   {
     id: 2,
     name: "IATF 16949:2016",
-    image: "https://bymer.pythonanywhere.com/media/certifications/IATF_16949-ENG-191027-2015-AQ-IND-IATF-3_J52.png",
+    image: "https://app.bymer.com/media/certifications/IATF_16949-ENG-191027-2015-AQ-IND-IATF-3_J52.png",
   },
   {
     id: 3,
     name: "ISO 9001 : 2015",
-    image: "https://bymer.pythonanywhere.com/media/certifications/ISO_9001_-_Ver_03_-_J42_-_2027_1.png",
+    image: "https://app.bymer.com/media/certifications/ISO_9001_-_Ver_03_-_J42_-_2027_1.png",
   },
   {
     id: 4,
     name: "ISO 45001 : 2018",
-    image: "https://bymer.pythonanywhere.com/media/certifications/OHS_ISO_45001-2018_2026_J52.png",
+    image: "https://app.bymer.com/media/certifications/OHS_ISO_45001-2018_2026_J52.png",
   },
   {
     id: 5,
     name: "Management System Certificate  IATF 16949:2016",
-    image: "https://bymer.pythonanywhere.com/media/certifications/1732257925.png",
+    image: "https://app.bymer.com/media/certifications/1732257925.png",
   },
   {
     id: 6,
     name: "Indian Rubber Manufacturers Research Association(IRMRA 2014-15)",
-    image: "https://bymer.pythonanywhere.com/media/certifications/1726033599.jpg",
+    image: "https://app.bymer.com/media/certifications/1726033599.jpg",
   },
   {
     id: 7,
     name: "Certificate Of Recognition (GABRIEL 2012)",
-    image: "https://bymer.pythonanywhere.com/media/certifications/1726033618.jpg",
+    image: "https://app.bymer.com/media/certifications/1726033618.jpg",
   },
   {
     id: 8,
     name: "Indian Rubber Manufacturers Research Association (IRMRA  2022)",
-    image: "https://bymer.pythonanywhere.com/media/certifications/1726033630.png",
+    image: "https://app.bymer.com/media/certifications/1726033630.png",
   },
 ];
 

@@ -5,14 +5,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "bymer.pythonanywhere.com",
-        port: "",
-        pathname: "/media/**",
-        search: "",
-      },
-      {
-        protocol: "https",
-        hostname: "bymerbe.pythonanywhere.com",
+        hostname: "app.bymer.com",
         port: "",
         pathname: "/media/**",
         search: "",
