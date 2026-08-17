@@ -1,5 +1,5 @@
 // STATIC FALLBACK DATA FOR OFFLINE / FALLBACK MODE
-
+// testing
 export const STATIC_COMPANY_PROFILE = {
   company_name: "Bymer Elastomers",
   tagline: "Delivering precision-engineered elastomer solutions with uncompromising quality since 1978. IATF 16949:2016, ISO 9001:2015 and ISO 14001:2015 certified.",
