@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next";
 import { Oswald, Montserrat, Inter } from "next/font/google";
 import "./globals.css";
 
@@ -58,6 +59,7 @@ export default function RootLayout({ children }) {
             </MachineryCatalogProvider>
           </ProductsCatalogProvider>
         </CompanySettingsProvider>
+        <Analytics />
       </body>
     </html>
   );

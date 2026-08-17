@@ -309,7 +309,7 @@ export function OrganizationChart() {
       setError(null);
       const data = await fetchOrgMemberTree(selectedSlug);
       setTree(data);
-      setExpandedIds(collectExpandableIds(data));
+      setExpandedIds(new Set());
       setLoadingTree(false);
     }
     loadTree();

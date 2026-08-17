@@ -21,4 +21,4 @@ export const HERO_CAROUSEL_IMAGES = [
   },
 ];
 
-export const HERO_CAROUSEL_INTERVAL_MS = 5000;
+export const HERO_CAROUSEL_INTERVAL_MS = 3000;

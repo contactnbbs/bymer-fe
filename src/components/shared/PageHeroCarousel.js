@@ -30,7 +30,7 @@ export function PageHeroCarousel({
         {HERO_CAROUSEL_IMAGES.map((image, index) => (
           <div
             key={image.src}
-            className={`absolute inset-0 transition-opacity duration-1000 ease-in-out ${
+            className={`absolute inset-0 transition-opacity duration-500 ease-in-out ${
               index === activeIndex ? "opacity-100" : "opacity-0"
             }`}
             aria-hidden={index !== activeIndex}
