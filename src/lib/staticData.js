@@ -3,7 +3,7 @@
 export const STATIC_COMPANY_PROFILE = {
   company_name: "Bymer Elastomers",
   tagline: "Delivering precision-engineered elastomer solutions with uncompromising quality since 1978. IATF 16949:2016, ISO 9001:2015 and ISO 14001:2015 certified.",
-  logo_url: null, // will fall back to local SVG/Image
+  logo_url: null,
   email: "sales@bymer.com",
   phone: "+919822079899",
   alternate_phone: "+912532381123",
