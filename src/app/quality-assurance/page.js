@@ -2,6 +2,8 @@ import { PageShell } from "@/components/layout/PageShell";
 import { QualityPage } from "@/components/quality/QualityPage";
 import { fetchQAMachinery } from "@/lib/api";
 
+export const dynamic = "force-dynamic";
+
 export const metadata = {
   title: "Quality Assurance | Bymer Elastomers",
   description:
