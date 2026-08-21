@@ -32,7 +32,7 @@ const inputClassName =
   "w-full bg-[#f9fafb] border border-[#e5e7eb] rounded-none py-3 px-4 font-body text-sm text-[#1c1b1b] placeholder-gray-400 focus:bg-white focus:border-[#9ca3af] focus:outline-none transition-colors duration-150";
 
 function formatContactTime(time) {
-  if (!time) return "";
+  if (!time) return null;
   return time.length === 5 ? `${time}:00` : time;
 }
 
