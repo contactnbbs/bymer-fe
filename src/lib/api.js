@@ -536,7 +536,7 @@ export async function submitQuoteInquiry(payload, drawingFile = null) {
 
 export async function submitCareerApplication(payload) {
   try {
-    const res = await fetch(`${BASE_URL}/api/forms/career/`, {
+    const res = await fetch(`${BASE_URL}/api/career/`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
